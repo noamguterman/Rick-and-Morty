@@ -28,7 +28,7 @@ img.character-image {
     border-radius: 4px;
     background-color: white;
     width: 240px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.16);
 }
 
 .attribute {
